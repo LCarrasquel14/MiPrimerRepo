@@ -8,16 +8,30 @@
     font-family: 'Poppins', sans-serif;
     font-family: 'Raleway', sans-serif;
     color: #ffff;
+    text-decoration: none;
 }
-body{
+
+body {
     background: #000;
 }
-.imagenes-p{
+
+.portafolio .menu-p {
+    padding: 20px;
+}
+
+.portafolio .menu-p a {
+    padding: 10px;
+}
+
+.imagenes-p {
     margin: 40px 0;
 }
-.imagenes-p .img{
+
+.imagenes-p .img {
     margin-bottom: 20px;
 }
-.imagenes-p .img img{
+
+.imagenes-p .img img {
     width: 100%;
 }
+
